@@ -12,8 +12,3 @@ This project aims to test various recommendation systems strategies utilizing co
 7.	Study the implementation in [Recommender Systems in Python 101 | Kaggle](https://www.kaggle.com/code/gspmoreira/recommender-systems-in-python-101) where the content based filtering is built using tf-idf vector of the message content, we want to replace the tf-idf by a simple sentiment analyzer result using vader. Suggest a script that implements this paradigm and perform its evaluation using Recall@N and NDCG@N metrics.
 8.	repeat 7) when the content of message is constituted by a vector corresponding to the concatenation of [Positive Sentiment score, Negative Sentiment Score, Length of the message, Ratio of stopwords /uncommon characters, Number of Personal Pronouns].   
 9.	identify appropriate literature that comments on the findings in previous steps and discuss the limitation of overall approach.
-
-
-Mitä varten tämä kuva on?
-
-![image](https://github.com/MK473203/NLP_project_36/assets/118449659/9dc9b8dd-7546-43b1-91c3-a8264324aa98)
