@@ -1,5 +1,7 @@
 # NLP_project_36
 
+Project.ipynb file contains all the Python code used in implementation, testing, and plotting the project specifics. The cells in the code are numbered according to project specification list (see below). The list of Python libraries can be found in the first cell of the file.
+
 
 Project 36. Recommender Systems  
 This project aims to test various recommendation systems strategies utilizing collaborative filtering, item-user collaborative filtering and content-based filtering. Consider the Deskdrop dataset, which contains a set of shared articles (shared_articles.csv) and a set of interaction modes (users_interactions.csv), which include View, Like, Comment, Follow and Bookmark. The file can be accessed at [Recommender Systems in Python 101 | Kaggle](https://www.kaggle.com/code/gspmoreira/recommender-systems-in-python-101), where some initial coding for data handling is also available. In this case, the items correspond to the articles and the user rating can be created by utilizing the information about View, Like, Comment, Follow and Bookmark. 
